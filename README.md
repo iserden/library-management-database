@@ -35,12 +35,6 @@ The database ensures **data integrity, traceability, and performance optimizatio
 ## 🧩 Entity Relationship Model
 The ER diagram illustrates all entity relationships, constraints, and dependencies.
 
-📌 *See `/diagrams/er_diagram.png`*
-
-## 📁 Repository Structure
-- `/sql` → All SQL scripts (tables, queries, views, indexes)
-- `/database` → SQL Server database files
-- `/report` → Detailed project documentation
 
 ## 👥 Contributors
 - İsmail Erden  
